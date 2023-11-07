@@ -4,7 +4,8 @@
 
 ## Four Sources:
 
-1:
-2:
-3:
-4:
+1. https://realpython.com/python-gui-tkinter/
+This source is really good because it gives a really good outline of all the thigns you can do with this library. It then includes little code snipbits that you can copy paste into Replit or anyother program to see it work in real life. If you want to know if tkinter can do something this is the place ot go.
+2. 
+3. 
+4. 
